@@ -4,9 +4,9 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - mopac=22.1.1
-  - python=3.10
-  - pandas=2.2.2
-  - scikit-learn=1.5.1
+  - mopac==22.1.1
+  - python==3.10
+  - pandas==2.2.2
+  - scikit-learn==1.5.1
   - pip:
-      - ase=3.22.1
+      - ase==3.22.1
